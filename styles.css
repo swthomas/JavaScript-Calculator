@@ -1,0 +1,6 @@
+table {
+  min-width: 20vh;
+  min-height: 20vh;
+  border: 2px solid black;
+  text-align: center;
+}
